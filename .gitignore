@@ -1,0 +1,15 @@
+# Kiro specs (design-time only)
+.kiro/
+
+# Python
+__pycache__/
+*.pyc
+
+# Testing
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
